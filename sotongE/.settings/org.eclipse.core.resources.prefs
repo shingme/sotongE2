@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/web.xml=UTF-8
+encoding//src/controller/CommandFactory.java=UTF-8
+encoding//src/model/ConsultManager.java=UTF-8
+encoding//src/model/TimetableDAO.java=UTF-8
+encoding//src/model/WeightDAO.java=UTF-8
